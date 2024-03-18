@@ -30,3 +30,4 @@ public class Exercicio2 {
         scanner.close();
     }
 }
+
