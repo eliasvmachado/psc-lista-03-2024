@@ -1,17 +1,21 @@
-# 📘 psc-lista-03-2024
+# 📘 psc-lista-04-2024
 
-Este repositório contém soluções para a Lista de Exercícios III da UC Programação de Soluções Computacionais, ministrada pelo Professor Daniel Henrique Matos de Paiva (Centro Universitário UNA). Os exercícios exploram fundamentos de Java, incluindo estruturas de controle, operações matemáticas, e muito mais.
+Este repositório contém soluções para a Lista de Exercícios IV da UC Programação de Soluções Computacionais, ministrada pelo Professor Daniel Henrique Matos de Paiva (Centro Universitário UNA). Os exercícios exploram fundamentos de Java, incluindo estruturas de controle, estruturas de repetição, operações matemáticas, etc.
 
 ## 📋 Exercícios
 
 A lista abrange os seguintes tópicos:
 
-1.  Leitura de 3 números e exibição do maior, do menor e da média aritmética.
-2.  Simulação de uma máquina de venda automática para cálculo de troco.
-3.  Resolução de equações de segundo grau.
-4.  Cálculos relacionados a círculos e esferas (perímetro, área, volume).
-5.  Realização de operações matemáticas básicas com dois números.
-6.  Sorteio de números e determinação de paridade.
+1. Solicitação de uma nota válida dentro de um intervalo específico até que o usuário forneça uma entrada correta.
+2. Requisição e verificação de um nome de usuário e senha, com a condição de que sejam diferentes.
+3. Leitura e confirmação de informações pessoais seguindo critérios predefinidos.
+4. Cálculo do tempo necessário para que a população de um país ultrapasse a de outro, baseado em taxas de crescimento estabelecidas.
+5. Programa que permite ao usuário definir populações e taxas de crescimento e calcular o tempo para que uma população ultrapasse a outra.
+6. Exibição dos números de 1 a 20, primeiro verticalmente e depois horizontalmente.
+7. Leitura de 5 números e exibição do maior.
+8. Leitura de 5 números e cálculo da soma e média.
+9. Exibição de números ímpares entre 1 e 50.
+10. Geração de números inteiros dentro de um intervalo especificado por dois números.
 
 ## 🚀 Como Usar
 
